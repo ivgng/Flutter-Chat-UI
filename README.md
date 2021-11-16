@@ -1,4 +1,4 @@
-# chatty
+# discovery
 
 A new Flutter project.
 
